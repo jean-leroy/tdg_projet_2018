@@ -1,11 +1,11 @@
 6
 6
-0 0 183 43 salade.jpg
-1 60 517 40 tomate.jpg
-2 50 351 48 oignon.jpg
-3 2 358 221 kebab.jpg
-4 6 106 451 homme.jpg
-5 1 532 481 plante.png
+0 0 69 -71 salade.jpg
+1 60 310 611 tomate.jpg
+2 50 237 -66 oignon.jpg
+3 2 244 107 kebab.jpg
+4 100 126 469 homme.jpg
+5 0 703 144 plante.png
 0 2 3 50
 1 0 3 20
 2 1 3 30

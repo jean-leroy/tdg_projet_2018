@@ -1,17 +1,17 @@
 12
 15
-0 0 123 190 belette.jpg
-1 0 738 398 cerf.jpg
-2 0 363 208 corbeau.jpg
-3 0 399 615 flore.jpg
-4 0 444 409 grenouille.jpg
-5 0 565 207 jackrabbit.jpg
-6 0 354 -1 lynx.jpg
-7 0 573 -1 mountainlion.jpg
-8 0 -1 346 pollution.jpg
-9 0 169 609 rechauffement.jpg
-10 0 236 400 red.jpg
-11 0 -1 528 JC.jpg
+0 0 107 174 belette.jpg
+1 0 744 611 cerf.jpg
+2 0 347 192 corbeau.jpg
+3 0 383 599 flore.jpg
+4 0 428 393 grenouille.jpg
+5 0 549 191 jackrabbit.jpg
+6 0 334 -13 lynx.jpg
+7 0 557 -17 mountainlion.jpg
+8 0 -17 330 pollution.jpg
+9 0 153 593 rechauffement.jpg
+10 0 220 384 red.jpg
+11 0 -17 512 JC.jpg
 0 3 10 20
 1 3 4 30
 2 3 1 20
