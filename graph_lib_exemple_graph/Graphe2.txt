@@ -1,0 +1,29 @@
+12
+15
+0 0 123 190 belette.jpg
+1 0 738 398 cerf.jpg
+2 0 363 208 corbeau.jpg
+3 0 399 615 flore.jpg
+4 0 444 409 grenouille.jpg
+5 0 565 207 jackrabbit.jpg
+6 0 354 -1 lynx.jpg
+7 0 573 -1 mountainlion.jpg
+8 0 -1 346 pollution.jpg
+9 0 169 609 rechauffement.jpg
+10 0 236 400 red.jpg
+11 0 -1 528 JC.jpg
+0 3 10 20
+1 3 4 30
+2 3 1 20
+3 1 7 30
+4 4 2 40
+5 4 5 20
+6 4 0 30
+7 0 6 20
+8 0 7 10
+9 5 6 20
+10 5 7 20
+11 9 11 30
+12 8 11 20
+13 3 8 10
+14 3 9 30
